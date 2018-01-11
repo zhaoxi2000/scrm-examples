@@ -14,4 +14,7 @@ public class Business {
     private long identity = 0L;
     private Set<Shop> shops = new HashSet<>(0);
 
+
+
+
 }
