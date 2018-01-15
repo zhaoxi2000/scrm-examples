@@ -1,6 +1,7 @@
-package me.zhaoxi.scrm.domain;
+package me.zhaoxi.scrm.domain.businessside;
 
-import me.zhaoxi.scrm.domain.repo.CustomerRepo;
+import me.zhaoxi.scrm.domain.customer.Customer;
+import me.zhaoxi.scrm.domain.customer.CustomerRepo;
 import org.apache.commons.beanutils.BeanUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

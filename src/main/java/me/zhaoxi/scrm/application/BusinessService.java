@@ -1,7 +1,7 @@
 package me.zhaoxi.scrm.application;
 
-import me.zhaoxi.scrm.domain.Business;
-import me.zhaoxi.scrm.domain.BusinessFactory;
+import me.zhaoxi.scrm.domain.businessside.Business;
+import me.zhaoxi.scrm.domain.businessside.BusinessFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

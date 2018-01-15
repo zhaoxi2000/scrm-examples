@@ -2,8 +2,6 @@ package me.zhaoxi.scrm.application;
 
 import me.zhaoxi.scrm.application.dto.HeadquartersDTO;
 import me.zhaoxi.scrm.application.dto.ShopDTO;
-import me.zhaoxi.scrm.domain.Headquarters;
-import me.zhaoxi.scrm.domain.Shop;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

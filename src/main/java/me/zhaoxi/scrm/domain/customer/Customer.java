@@ -1,4 +1,4 @@
-package me.zhaoxi.scrm.domain;
+package me.zhaoxi.scrm.domain.customer;
 
 import lombok.Data;
 import org.slf4j.Logger;

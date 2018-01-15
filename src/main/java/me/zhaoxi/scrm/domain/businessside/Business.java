@@ -1,5 +1,6 @@
-package me.zhaoxi.scrm.domain;
+package me.zhaoxi.scrm.domain.businessside;
 
+import me.zhaoxi.scrm.domain.customer.Customer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
