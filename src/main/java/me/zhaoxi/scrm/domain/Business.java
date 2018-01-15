@@ -15,6 +15,6 @@ public class Business {
     private Set<Shop> shops = new HashSet<>(0);
 
 
-
-
+    public void beCustomer(Customer newCustomer) {
+    }
 }
